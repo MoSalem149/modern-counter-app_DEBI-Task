@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Counter App</title>
+  <!-- Link to the external CSS stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <!-- Main container for centering content -->
+  <div class="container">
+    <!-- Counter display section -->
+    <div class="counter-container">
+      <div class="counter">
+        <h2>Counter App</h2>
+        <div class="display">
+          <!-- Display the current count -->
+          <h1 id="count">0</h1>
+          <!-- Display the highest count achieved -->
+          <p id="highest-count" class="highest-count">Highest Count: 0</p>
+        </div>
+        <!-- Buttons for counter actions -->
+        <div class="buttons">
+          <button class="increment" onclick="increase()">+</button>
+          <button class="decrement" onclick="decrease()">-</button>
+          <button class="reset" onclick="reset()">Reset</button>
+        </div>
+      </div>
+    </div>
+    <!-- Additional action buttons -->
+    <div class="actions">
+      <button class="save" onclick="saveData()">Save Data</button>
+      <button class="show" onclick="showSavedData()">Show Data</button>
+      <button class="clear" onclick="clearSavedData()">Clear Data</button>
+    </div>
+  </div>
+  <!-- Link to the external JavaScript file -->
+  <script src="script.js"></script>
+</body>
+
+</html>

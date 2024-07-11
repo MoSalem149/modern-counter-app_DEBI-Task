@@ -35,6 +35,15 @@ Modern Counter App is a web application that allows users to increment, decremen
     open index.html
     ```
 
+## Topics
+
+- Web Development
+- Front-end
+- Counter Application
+- Local Storage
+- JavaScript
+- Responsive Design
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.

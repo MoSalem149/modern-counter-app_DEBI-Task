@@ -2,6 +2,8 @@
 
 Modern Counter App is a web application that allows users to increment, decrement, reset, and save counter values. It features a modern, responsive design.
 
+## Screenshots
+
 ![Modern Counter App](screens/Counter_App_Image.png)
 
 ## Features

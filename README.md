@@ -22,7 +22,7 @@ Modern Counter App is a web application that allows users to increment, decremen
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/MoSalem149/modern-counter-app.git
+    git clone https://github.com/MoSalem149v2/modern-counter-app_DEBI-Task.git
     ```
 
 2. Navigate to the project directory:
@@ -41,6 +41,8 @@ Modern Counter App is a web application that allows users to increment, decremen
 - Front-end
 - Counter Application
 - Local Storage
+- HTML
+- CSS
 - JavaScript
 - Responsive Design
 
